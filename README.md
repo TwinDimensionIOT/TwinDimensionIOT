@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Logo_TD_VP_GradientBiColor-Gris4 (1)](https://user-images.githubusercontent.com/120399805/208434492-fb45da4b-3007-401a-941b-5c968c02d5b4.png)
 
 <!--
 **TwinDimensionIOT/TwinDimensionIOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
